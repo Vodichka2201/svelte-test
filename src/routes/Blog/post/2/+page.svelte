@@ -1,0 +1,2 @@
+<h1>My second post</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque tenetur suscipit harum repellendus ipsa illum aut, esse ad deleniti, itaque reprehenderit exercitationem voluptate reiciendis at doloribus maiores voluptates accusantium sit?</p>
