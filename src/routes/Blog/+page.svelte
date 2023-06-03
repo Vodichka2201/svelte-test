@@ -9,7 +9,7 @@
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
-                    <a class="link" href={`/blog/post/${page.id}`}>Читать больше</a>
+                    <a class="link" href={`/blog/post/${page.id}`}>Читать больше.</a>
                 </p>
             </div>
         {/each}
