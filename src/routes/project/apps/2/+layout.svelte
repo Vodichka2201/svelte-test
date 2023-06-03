@@ -1,7 +1,8 @@
 <div class="container">
-    <a href="/blog">Вернуться к постам</a>
+    <a href="/project">Вернуться к проектам</a>
     <slot />
 </div>
+
 <style>
     .container {
         margin: 50px auto;

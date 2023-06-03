@@ -1,2 +1,2 @@
-<h1>My first post</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque tenetur suscipit harum repellendus ipsa illum aut, esse ad deleniti, itaque reprehenderit exercitationem voluptate reiciendis at doloribus maiores voluptates accusantium sit?</p>
+<h1>Мой первый пост</h1>
+<p>Я изучал создание сайтов пол года, и за это время очень много узнал.</p>

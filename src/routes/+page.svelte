@@ -5,16 +5,16 @@
 <div class="container">
     <div class="info">
         <div class="animate-background">
-            <div class="container info-container">
+            <div class="container-info-container">
                 <div class="info-text">
                     <h1>
-                        <p class="animate-text-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        <p class="text-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="animate-text-1">Мой сайт.</p>
+                        <p class="text-2">Спросите, зачем? Да сам не знаю.</p>
                     </h1>
                 </div>
-                <h2 class="subtitle">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h2>
+                <h2 class="subtitle">Или же знаю?.</h2>
                 <div style="color: black;" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">Click Here</a>
+                    <a href="/about">Жми сюда</a>
                     <div class="arrow">&rarr;</div>
                 </div>
             </div>
@@ -24,6 +24,9 @@
 <div class="background-div"></div>
 
 <style>
+    .subtitle {
+        text-align: left;
+    }
     .info {
         text-align: center;
         position: relative;
@@ -76,5 +79,8 @@
     }
     .scroll-button .arrow {
         margin-left: 0.50rem;
+    }
+    .container-info-container {
+        padding: 80px;
     }
 </style>

@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/blog">Go back to block</a>
+    <a href="/blog">Вернуться к постам</a>
     <slot />
 </div>
 <style>

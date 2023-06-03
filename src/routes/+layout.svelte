@@ -16,22 +16,22 @@
 <script>
     const nav = [
         {
-            title: "About me",
+            title: "О себе",
             href: '/about',
             isShow: true
         },
         {
-            title: "Blog",
+            title: "Блог",
             href: "/blog",
             isShow: true
         },
         {
-            title: "Portfolio",
+            title: "Портфолио",
             href: "/project",
             isShow: true
         },
         {
-            title: "Contacts",
+            title: "Контакты",
             href: "/contact",
             isShow: true
         },
