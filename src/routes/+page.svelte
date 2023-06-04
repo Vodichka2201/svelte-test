@@ -31,14 +31,6 @@
         text-align: center;
         position: relative;
     }
-    .info-container {
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        text-align: left;
-        align-items: start;
-    }
     .container {
         max-width: 1400px;
         margin: 0;
